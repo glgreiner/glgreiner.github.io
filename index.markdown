@@ -3,12 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Garrett Greiner
-
+permalink: /home/
 ---
-
-<h1>Heading level 1</h1>
-
-I really like using Markdown.
-
-I think I'll use it to format all of my documents from now on.
+test
