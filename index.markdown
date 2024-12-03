@@ -11,7 +11,7 @@ permalink: /
    My research interests are in Cryptrography.
 
   </div>
-  <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4" markdown="1">
-        <img src="assets/me.jpg" alt="drawing" width="200"/>
+  <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+    <img src="assets/me.jpg" alt="drawing" width="200"/>
   </div>
 </div>
