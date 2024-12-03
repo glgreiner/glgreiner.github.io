@@ -5,4 +5,4 @@ permalink: /
 ---
 test
 
-![Image]({{"/_assets/me.jpg", | relative_url }}) 
+![image](/assets/me.jpg)
