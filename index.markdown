@@ -1,6 +1,6 @@
 ---
 layout: home
 title: home
-permalink: /home
+permalink: /home/
 ---
 test
