@@ -6,4 +6,4 @@ permalink: /cv/
 
 Below is my CV.
 
-<object data="{{ site.url }}{{ site.baseurl }}/pdfs/cv.pdf" width="800" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/cv.pdf" width="600" height="800" type="application/pdf"></object>
