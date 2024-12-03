@@ -8,8 +8,10 @@ permalink: /publications/
 
 I am primarily interested in Cryptography and Machine Learning. Listed below are my publications.
 
-* **Multi-modal EEG NEO-FFI with Trained Attention Layer (MENTAL) for Mental Disorder Prediction** ..
+* **Multi-modal EEG NEO-FFI with Trained Attention Layer (MENTAL) for Mental Disorder Prediction**
+
 Garrett Greiner, Yu Zhang. *Brain Informatics*, 2024.
 
-* **Detecting Image Forgery Using Support Vector Machine and Texture Features** ..
+* **Detecting Image Forgery Using Support Vector Machine and Texture Features**
+
 Garrett Greiner, Eva Tuba. *Intelligent Data Engineering and Automated Learning (IDEAL)*, 2023.
