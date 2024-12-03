@@ -14,16 +14,12 @@ I am primarily interested in Cryptography and Machine Learning. Listed below are
 
 <h1> Machine Learning </h1>
 
-2024
+<li markdown="1"><div>**Multi-modal EEG NEO-FFI with Trained Attention Layer (MENTAL) for Mental Disorder Prediction**
 
-<li markdown="1">**Multi-modal EEG NEO-FFI with Trained Attention Layer (MENTAL) for Mental Disorder Prediction**
-
-Garrett Greiner, Yu Zhang. *Brain Informatics*, 2024.
+Garrett Greiner, Yu Zhang. *Brain Informatics*, 2024.</div>
 </li>
 
-2023
+<li markdown="1"><div>**Detecting Image Forgery Using Support Vector Machine and Texture Features**
 
-<li markdown="1">**Detecting Image Forgery Using Support Vector Machine and Texture Features**
-
-Garrett Greiner, Eva Tuba. *Intelligent Data Engineering and Automated Learning (IDEAL)*, 2023.
+Garrett Greiner, Eva Tuba. *Intelligent Data Engineering and Automated Learning (IDEAL)*, 2023.</div>
 </li>

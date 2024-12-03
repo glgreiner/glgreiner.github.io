@@ -10,7 +10,7 @@ permalink: /
 
    My research interests are in Cryptrography.
 
-   You can find my CV here, and a list of my publications here.
+   You can find my CV [here]({{ '/cv/' | relative_url }}), and a list of my publications [here]({{ '/publications/' | relative_url }}).
 
    Feel free to contact me at u1529022\[@\]umail.utah.edu.
   </div>
