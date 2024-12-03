@@ -10,6 +10,8 @@ permalink: /
 
    My research interests are in Cryptrography.
 
+   You can find my CV here, and a list of my publications here.
+
    Feel free to contact me at u1529022\[@\]umail.utah.edu.
   </div>
   <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6"  markdown="0">
