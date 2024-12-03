@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-<h1 class="header"> Curriculum vitae (CV) </h1>
+<h1 class="header"> Curriculum Vitae (CV) </h1>
 
 Below is my CV.
 
