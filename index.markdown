@@ -1,5 +1,5 @@
 ---
 layout: home
-permalink: /
+permalink: /home
 ---
 test
