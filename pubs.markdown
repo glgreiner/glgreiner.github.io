@@ -12,7 +12,7 @@ Listed below are my publications. \* denotes first author.
 Nikhil Vanjani\*, Garrett Greiner\*, Sri AravindaKrishnan Thyagarajan, Pratik Soni<br>
 To appear in *IEEE S&P 2026*
 
-3. **HyperVerITAS: Verifying Image Transformations at Scale on Boolean Hypercubes**<br>
+3. **[HyperVerITAS: Verifying Image Transformations at Scale on Boolean Hypercubes](https://eprint.iacr.org/2026/641)**<br>
 Garrett Greiner\*, Toshi Mowery\*, Pratik Soni<br>
 To appear in *PETS 2026*
 
